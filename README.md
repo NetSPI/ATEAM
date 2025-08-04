@@ -250,8 +250,8 @@ Contributions are welcome! Please feel free to submit:
 
 
 ### Related Blogs
-* <a href="https://blog.netspi.com/a-beginners-guide-to-gathering-azure-passwords/">A Beginners Guide to Gathering Azure Passwords</a>
+* <a href="https://blog.netspi.com/">We Know What You Did (in Azure) Last Summer</a>
 
 ### Presentations
-* <a href="https://youtu.be/CUTwkuiRgqg">We Know What You Did (in Azure) Last Summer - DEF CON 33 - Cloud Village</a>
-  - <a href="https://notpayloads.blob.core.windows.net/slides/ExtractingalltheAzurePasswords.pdf">Slides</a>
+* <a href="https://github.com/NetSPI/ATEAM">We Know What You Did (in Azure) Last Summer - DEF CON 33 - Cloud Village</a>
+  - <a href="https://github.com/NetSPI/ATEAM">Slides</a>
