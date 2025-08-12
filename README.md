@@ -26,8 +26,8 @@ A Python reconnaissance tool designed to discover Azure services and attribute t
 
 ### Author, Contributors, and License
 * Authors:
- 	* Karl Fosaaen ([@kfosaaen](https://twitter.com/kfosaaen)), NetSPI
- 	* Thomas Elling ([@thomaselling](https://twitter.com/thomas_elling)), NetSPI
+ 	* Karl Fosaaen (@kfosaaen - On most platforms), NetSPI
+ 	* Thomas Elling ([@thomaselling1](https://linkedin.com/in/thomaselling1)), NetSPI
 * License: BSD 3-Clause
 
 ## 🎯 Purpose
