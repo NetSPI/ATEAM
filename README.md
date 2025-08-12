@@ -254,4 +254,4 @@ Contributions are welcome! Please feel free to submit:
 
 ### Presentations
 * <a href="https://github.com/NetSPI/ATEAM">We Know What You Did (in Azure) Last Summer - DEF CON 33 - Cloud Village</a>
-  - <a href="https://github.com/NetSPI/ATEAM">Slides</a>
+  - <a href="https://github.com/NetSPI/ATEAM/blob/main/AzureTenantEnum.pdf">Slides</a>
