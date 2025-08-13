@@ -250,7 +250,7 @@ Contributions are welcome! Please feel free to submit:
 
 
 ### Related Blogs
-* <a href="https://blog.netspi.com/">We Know What You Did (in Azure) Last Summer</a>
+* <a href="https://www.netspi.com/blog/technical-blog/cloud-pentesting/azure-resource-attribution-via-tenant-id-enumeration/">We Know What You Did (in Azure) Last Summer</a>
 
 ### Presentations
 * <a href="https://github.com/NetSPI/ATEAM">We Know What You Did (in Azure) Last Summer - DEF CON 33 - Cloud Village</a>
