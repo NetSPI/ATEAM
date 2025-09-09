@@ -842,7 +842,7 @@ class AzureTenantFinder:
 
     def _export_csv(self, results: List[tuple], output_file: str):
         """Export results to CSV format."""
-        with open(output_file, 'w', newline='') as f:
+        with open(output_file, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
             writer.writerow(['Resource URI', 'Type', 'Tenant ID', 'Company Display Name', 'Discovered At'])
             writer.writerows(results)
